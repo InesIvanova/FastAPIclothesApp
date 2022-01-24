@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="define_classes_1.to_do_list.project.section.Task" />
+          <option value="classes_and_instances_2.library_7.project.user.Library" />
+          <option value="polymorphism.wild_farm.project.animals.birds.Meet" />
+          <option value="polymorphism.wild_farm.project.animals.mammals.Meat" />
+          <option value="blog.graph.util.validate" />
+          <option value="cwf.courses.models.User" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
